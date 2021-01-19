@@ -1,0 +1,36 @@
+mode = [False, True]
+i = [False, True]
+q = [False, True]
+w = [False, True]
+r = [False, True]
+t = [False, True]
+N = [False, True]
+dimming_screen = [False, True]
+B = 0
+de = 650
+FPS = 60
+Brite = 100
+BG_COLOR = (255, 255, 255)
+BG_COLOR1 = (200, 200, 200)
+BG_COLOR2 = (255, 255, 255)
+com_BG = (220, 220, 220)
+BG_4 = (150, 150, 150, Brite)
+
+card_pos = (300, 25)
+card_list = []
+move_list = []
+card_pos_list = []
+card_open = False
+card_move = False
+card_score = 0
+size_x = 360
+size_y = 180
+card_move = False
+block = False
+block2 = False
+
+grey = (0, 137, 235)
+greyR = (12, 79, 242)
+greyL = (0, 1, 219)
+greyU = (149, 19, 235)
+black = (0, 0, 0)
